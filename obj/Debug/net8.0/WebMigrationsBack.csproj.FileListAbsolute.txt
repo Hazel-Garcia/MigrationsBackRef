@@ -37,3 +37,4 @@ c:\Users\hazel.garcia\Documents\Hazel-Garcia\WebMigrations\WebMigrationsBack\bin
 c:\Users\hazel.garcia\Documents\Hazel-Garcia\WebMigrations\WebMigrationsBack\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 c:\Users\hazel.garcia\Documents\Hazel-Garcia\WebMigrations\WebMigrationsBack\obj\Debug\net8.0\WebMigrationsBack.csproj.AssemblyReference.cache
 c:\Users\hazel.garcia\Documents\Hazel-Garcia\WebMigrations\WebMigrationsBack\obj\Debug\net8.0\WebMigra.1BA3462B.Up2Date
+c:\Users\hazel.garcia\Documents\Hazel-Garcia\WebMigrations\WebMigrationsBack\obj\Debug\net8.0\WebMigrationsBack.sourcelink.json

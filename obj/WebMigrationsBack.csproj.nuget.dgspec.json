@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hazel.garcia\\Documents\\Hazel-Garcia\\WebMigrations\\WebMigrationsBack\\WebMigrationsBack.csproj": {}
+    "c:\\Users\\hazel.garcia\\Documents\\Hazel-Garcia\\WebMigrations\\WebMigrationsBack\\WebMigrationsBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hazel.garcia\\Documents\\Hazel-Garcia\\WebMigrations\\WebMigrationsBack\\WebMigrationsBack.csproj": {
+    "c:\\Users\\hazel.garcia\\Documents\\Hazel-Garcia\\WebMigrations\\WebMigrationsBack\\WebMigrationsBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hazel.garcia\\Documents\\Hazel-Garcia\\WebMigrations\\WebMigrationsBack\\WebMigrationsBack.csproj",
+        "projectUniqueName": "c:\\Users\\hazel.garcia\\Documents\\Hazel-Garcia\\WebMigrations\\WebMigrationsBack\\WebMigrationsBack.csproj",
         "projectName": "WebMigrationsBack",
-        "projectPath": "C:\\Users\\hazel.garcia\\Documents\\Hazel-Garcia\\WebMigrations\\WebMigrationsBack\\WebMigrationsBack.csproj",
+        "projectPath": "c:\\Users\\hazel.garcia\\Documents\\Hazel-Garcia\\WebMigrations\\WebMigrationsBack\\WebMigrationsBack.csproj",
         "packagesPath": "C:\\Users\\hazel.garcia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hazel.garcia\\Documents\\Hazel-Garcia\\WebMigrations\\WebMigrationsBack\\obj\\",
+        "outputPath": "c:\\Users\\hazel.garcia\\Documents\\Hazel-Garcia\\WebMigrations\\WebMigrationsBack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hazel.garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",

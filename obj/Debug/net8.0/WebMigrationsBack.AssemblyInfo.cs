@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebMigrationsBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9bd55d6902fb0a79f5e5fccc3f2ea3b02d04fbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebMigrationsBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebMigrationsBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
