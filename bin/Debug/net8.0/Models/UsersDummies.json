@@ -1,0 +1,37 @@
+[
+    {
+        "email":"dummie1@ntk.com",
+        "password":"123123",
+        "id": "01"
+    },
+
+    {
+        "email":"dummie2@ntk.com",
+        "password":"123123",
+        "id": "02"
+    },
+
+    {
+        "email":"dummie3@ntk.com",
+        "password":"123123",
+        "id": "03"
+    },
+
+    {
+        "email":"dummie4@ntk.com",
+        "password":"123123",
+        "id": "04"
+    },
+
+    {
+        "email":"dummie5@ntk.com",
+        "password":"123123",
+        "id": "05"
+    },
+
+    {
+        "email":"dummie6@ntk.com",
+        "password":"123123",
+        "id": "06"
+    }
+]
